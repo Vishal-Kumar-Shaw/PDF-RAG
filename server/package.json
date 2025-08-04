@@ -14,6 +14,9 @@
   "license": "ISC",
   "packageManager": "pnpm@10.14.0",
   "dependencies": {
+    "@langchain/core": "^0.3.66",
+    "@langchain/openai": "^0.6.3",
+    "@langchain/qdrant": "^0.1.2",
     "@types/node": "^24.1.0",
     "bullmq": "^5.56.9",
     "cors": "^2.8.5",
